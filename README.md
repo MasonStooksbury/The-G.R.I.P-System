@@ -44,4 +44,4 @@ Clone the repository wherever you want it, and run it by either:
  # Anything Else?:
  I don't think so. I tried to make this as simple as possible. If you have any further questions or curiosities, play around with it!
  
- Or you can check out the demo video coming up soon!
+ Or you can check out the demo video [here](http://masonstooksbury.wixsite.com/portfolio/g-r-i-p-system "Portfolio: The G.R.I.P. System")!
