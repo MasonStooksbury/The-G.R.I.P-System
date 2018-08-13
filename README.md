@@ -14,15 +14,15 @@ The [G]eoIP [R]DAP [I]nternet [P]rotocol System or "G.R.I.P. System" is a platfo
 
 # Dependencies:
 To make this easy, here are all of the imports I have across all files. A lot of them come with Python, but just in case you're curious:
-  import urllib.request
-  import urllib.parse
-  import pprint
-  import json
-  import re
-  import requests
-  import dateutil.parser
-  import datetime
-  import os.path
+* import urllib.request
+* import urllib.parse
+* import pprint
+* import json
+* import re
+* import requests
+* import dateutil.parser
+* import datetime
+* import os.path
   
 ---
   
