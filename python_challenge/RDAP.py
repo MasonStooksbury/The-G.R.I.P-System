@@ -479,10 +479,12 @@ def printAllUpdateEntries(IP, option, reverse=False):
     if reverse != True:
         for time in sorted(times):
             printEntryInfo(full_RDAP_text["entities"][0]["entities"][times.index(int(time))])
+            print('\n\n')
     # Otherwise, we want 'descending'
     else:
         for time in sorted(times, reverse=True):
             printEntryInfo(full_RDAP_text["entities"][0]["entities"][times.index(int(time))])
+            print('\n\n')
 
 
 # Datetime of right now in ISO-8601 format
