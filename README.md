@@ -1,4 +1,4 @@
-# python_challenge: The G.R.I.P. System
+# The G.R.I.P. System
 A script that allows lots of manipulation for GeoIP and RDAP data for a given IP address (or file with IP addresses in it)
 
 
